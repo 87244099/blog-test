@@ -12,7 +12,7 @@ let g = new Girl();
 ```
 ```Java
 public class Girl{
-    this.name = "lili";
+    String name = "lili";
     public static void main(String[] args){
     	Girl g = new Girl();
     }
